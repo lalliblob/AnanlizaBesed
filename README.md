@@ -3,3 +3,5 @@
 kratek opis
 ## avtorji
 * Lara
+* Lana
+* Jakob
